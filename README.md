@@ -1,7 +1,7 @@
-Blog of Programming
+# Welcome to my blog!
+This is my blog mainly related to programming contest, machine learning, and miscellanous.
 
-
-# Blog list
+# Blog
 
 ## Online Judge
 - [AtCoder Beginner Contest 100](https://www.zybuluo.com/Yukirin/note/1299194)
