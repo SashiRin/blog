@@ -4,6 +4,7 @@ This is my blog mainly related to programming contest, machine learning, and mis
 # Blog
 
 ## Online Judge
+- [AtCoder Beginner Contest 072](https://www.zybuluo.com/Yukirin/note/1436117)
 - [AtCoder Beginner Contest 100](https://www.zybuluo.com/Yukirin/note/1299194)
 - [AtCoder Beginner Contest 101](https://www.zybuluo.com/Yukirin/note/1299530)
 - [AtCoder Beginner Contest 102](https://www.zybuluo.com/Yukirin/note/1274175)
